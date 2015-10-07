@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-    <title>Example Site</title>
+    <title>A site that appears broken</title>
     <link>http://shawngraham.github.io/pywiki-testmac/</link>
-    <description>Example Site Description</description>
+    <description>Why the hell isn't this working</description>
     
     <item>
         <title>Geospatial Web</title>
