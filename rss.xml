@@ -2,26 +2,26 @@
 <rss version="2.0">
 <channel>
     <title>Example Site</title>
-    <link>/</link>
+    <link>shawngraham.github.io/pywiki-testmac/</link>
     <description>Example Site Description</description>
     
     <item>
         <title>Geospatial Web</title>
-        <link>/Geospatial-web.html</link>
+        <link>shawngraham.github.io/pywiki-testmac/Geospatial-web.html</link>
         <pubDate>Tue, 06 Oct 2015 21:56:14 EDT</pubDate>
         <description>geospatial web, web mapping, etc blah blah blah...</description>
     </item>    
     
     <item>
         <title>My New Post</title>
-        <link>/my-new-post.html</link>
+        <link>shawngraham.github.io/pywiki-testmac/my-new-post.html</link>
         <pubDate>Tue, 06 Oct 2015 21:55:18 EDT</pubDate>
         <description> ta da! This is fun * Yep * It sure is [[Geospatial-web]]...</description>
     </item>    
     
     <item>
         <title>Welcome</title>
-        <link>/index.html</link>
+        <link>shawngraham.github.io/pywiki-testmac/index.html</link>
         <pubDate>Tue, 06 Oct 2015 21:39:37 EDT</pubDate>
         <description>The default PyKwiki startup page.</description>
     </item>    
